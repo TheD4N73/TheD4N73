@@ -5,7 +5,7 @@
 
 ## about.me
 <p align="justify">
-I am a Web Developer looking to gain experience in various projects to improve my knowledge. An apprentice with an easy natural ability to collaborate as a dynamic and dedicated professional.
+I am an Web Developer looking to gain experience in various projects to improve my knowledge. An apprentice with an easy natural ability to collaborate as a dynamic and dedicated professional.
 When I'm not working, I study cybersecurity, play board games, and watch TV shows.
 </p>
 
